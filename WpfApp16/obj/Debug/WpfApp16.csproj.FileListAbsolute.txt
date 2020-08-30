@@ -1,0 +1,15 @@
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\bin\Debug\WpfApp16.exe.config
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\bin\Debug\WpfApp16.exe
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\bin\Debug\WpfApp16.pdb
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.csprojAssemblyReference.cache
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\MainWindow.g.cs
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\App.g.cs
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16_MarkupCompile.cache
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16_MarkupCompile.lref
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\MainWindow.baml
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.g.resources
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.Properties.Resources.resources
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.csproj.GenerateResource.cache
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.csproj.CoreCompileInputs.cache
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.exe
+C:\Users\YUUKI\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.pdb
